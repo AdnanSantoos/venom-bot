@@ -1,9 +1,13 @@
-{ "name": "bot",
-"version": "1.0.0",
-"description": "",
-"main": "bot.js",
-"author": "",
-"license": "ISC",
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Bot do WhatsApp",
+  "main": "bot.js",
+  "author": "Seu Nome",
+  "license": "ISC",
+  "scripts": {
+    "start": "node bot.js"
+  },
   "dependencies": {
     "venom-bot": "^5.1.0"
   }
