@@ -1,0 +1,10 @@
+{ "name": "bot",
+"version": "1.0.0",
+"description": "",
+"main": "bot.js",
+"author": "",
+"license": "ISC",
+  "dependencies": {
+    "venom-bot": "^5.1.0"
+  }
+}
